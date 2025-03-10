@@ -1,6 +1,6 @@
 # Technobillion AI
 
-![Technobillion AI](./images/cover_tbai.jpg)  
+![Technobillion AI](./../images/cover_tbai.jpg)  
 🚀 **Empowering a Billion People with AI**  
 
 ## About Us
